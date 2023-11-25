@@ -5,6 +5,12 @@
       "title": "My test post",
       "datetime": "November 26, 2023 3:06:53 AM",
       "body": "hello world"
+    },
+    {
+      "id": 2,
+      "title": "This is my second post",
+      "datetime": "November 26, 2023 4:37:36 AM",
+      "body": "Hiiiiiiiiiiiiiiiiiiiiiiiiii, it's me again."
     }
   ]
 }
