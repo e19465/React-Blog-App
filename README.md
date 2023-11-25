@@ -3,7 +3,9 @@ React Blog App responsive Blog Application
 
 ![](https://github.com/e19465/React-Blog-App/blob/main/src/img/ss1.png)
 
-![](https://github.com/e19465/React-Blog-App/blob/main/src/img/ss2.PNG)
+![](https://github.com/e19465/React-Blog-App/blob/main/src/img/p1.PNG)
+![](https://github.com/e19465/React-Blog-App/blob/main/src/img/p2.PNG)
+![](https://github.com/e19465/React-Blog-App/blob/main/src/img/p3.PNG)
 
 
 ## Introduction
