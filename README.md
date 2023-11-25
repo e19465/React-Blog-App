@@ -3,9 +3,6 @@ React Blog App responsive Blog Application
 
 ![](https://github.com/e19465/React-Blog-App/blob/main/src/img/ss1.png)
 
-![](https://github.com/e19465/React-Blog-App/blob/main/src/img/ss2.PNG)
-
-
 ## Introduction
 
 "Introducing my sleek React blog app! With a user-friendly interface and stylish components, it's a breeze to create and share content. Engage with your audience effortlessly, and enjoy seamless responsiveness across devices. Experience the perfect blend of simplicity and sophistication in this innovative blogging platform."
@@ -25,3 +22,7 @@ React Blog App responsive Blog Application
   
 ## Explore Blog App UI here
 -  https://sasindu-e19465-react-blog-app.netlify.app/
+
+- ![](https://github.com/e19465/React-Blog-App/blob/main/src/img/p1.PNG)
+- ![](https://github.com/e19465/React-Blog-App/blob/main/src/img/p2.PNG)
+- ![](https://github.com/e19465/React-Blog-App/blob/main/src/img/p3.PNG)
