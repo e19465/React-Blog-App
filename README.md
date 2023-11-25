@@ -20,9 +20,9 @@ React Blog App responsive Blog Application
 - ![](https://github.com/e19465/React-Blog-App/blob/main/src/img/ss5.PNG)
 - Now, you good to go!
   
-## Explore Blog App UI here
+## Explore Blog App here
 -  https://sasindu-e19465-react-blog-app.netlify.app/
-
+##
 - ![](https://github.com/e19465/React-Blog-App/blob/main/src/img/p1.PNG)
 - ![](https://github.com/e19465/React-Blog-App/blob/main/src/img/p2.PNG)
 - ![](https://github.com/e19465/React-Blog-App/blob/main/src/img/p3.PNG)
