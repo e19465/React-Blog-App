@@ -28,7 +28,11 @@ function App() {
       <Header title="React JS Blog" />
       <Nav />
       <Routes>
-        <Route exact path="/" element={<Home />} />
+        <Route
+          exact
+          path="/"
+          element={<Home isLoading={isLoading} fetchError={fetchError} />}
+        />
         <Route exact path="/post" element={<NewPost />} />
         <Route path="/edit/:id" element={<EditPost />} />
         <Route path="/post/:id" element={<PostPage />} />
